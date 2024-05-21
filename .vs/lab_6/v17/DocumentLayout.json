@@ -1,33 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\",
+  "WorkspaceRootPath": "C:\\Users\\PoweR\\Desktop\\lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\classes\\searchbyingredientsstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\classes\\searchbyingredientsstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\classes\\searchbynamestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\classes\\searchbynamestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\classes\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\classes\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\classes\\searchbyidstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\classes\\searchbyidstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\classes\\basesearchstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\classes\\basesearchstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|c:\\users\\power\\desktop\\lab6\\lab_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C076F2D1-30D3-4382-99F7-371A27E6F3AC}|lab_6\\lab_6.csproj|solutionrelative:lab_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,86 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecipeRepository.cs",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\RecipeRepository.cs",
-              "RelativeDocumentMoniker": "lab_6\\Classes\\RecipeRepository.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\RecipeRepository.cs",
-              "RelativeToolTip": "lab_6\\Classes\\RecipeRepository.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:22:34.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SearchByNameStrategy.cs",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\SearchByNameStrategy.cs",
-              "RelativeDocumentMoniker": "lab_6\\Classes\\SearchByNameStrategy.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\SearchByNameStrategy.cs",
-              "RelativeToolTip": "lab_6\\Classes\\SearchByNameStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:22:29.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SearchByIngredientsStrategy.cs",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\SearchByIngredientsStrategy.cs",
-              "RelativeDocumentMoniker": "lab_6\\Classes\\SearchByIngredientsStrategy.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\SearchByIngredientsStrategy.cs",
-              "RelativeToolTip": "lab_6\\Classes\\SearchByIngredientsStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:22:28.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SearchByIdStrategy.cs",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\SearchByIdStrategy.cs",
-              "RelativeDocumentMoniker": "lab_6\\Classes\\SearchByIdStrategy.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\SearchByIdStrategy.cs",
-              "RelativeToolTip": "lab_6\\Classes\\SearchByIdStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:22:27.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "db.cs",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\db.cs",
-              "RelativeDocumentMoniker": "lab_6\\Classes\\db.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\db.cs",
-              "RelativeToolTip": "lab_6\\Classes\\db.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:16:53.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseSearchStrategy.cs",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\BaseSearchStrategy.cs",
-              "RelativeDocumentMoniker": "lab_6\\Classes\\BaseSearchStrategy.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Classes\\BaseSearchStrategy.cs",
-              "RelativeToolTip": "lab_6\\Classes\\BaseSearchStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:16:52.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PoweR\\Desktop\\lab6\\lab_6\\Form1.cs",
               "RelativeDocumentMoniker": "lab_6\\Form1.cs",
-              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\lab_6\\lab_6\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\PoweR\\Desktop\\lab6\\lab_6\\Form1.cs [Design]",
               "RelativeToolTip": "lab_6\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T15:15:45.933Z",
